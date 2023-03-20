@@ -7,7 +7,7 @@
       <button @click="reset">Reset</button>
       <button @click="setValue">setValue</button>
     </body>
-  </div>
+  </div> 
   </template>
   
   <script>
